@@ -1,3 +1,6 @@
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 LTO_ENABLE = yes
+
+NKRO_ENABLE = yes
+COMMAND_ENABLE = no
