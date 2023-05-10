@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 LTO_ENABLE = yes
@@ -5,3 +6,12 @@ LTO_ENABLE = yes
 COMMAND_ENABLE = no
 NKRO_ENABLE = yes
 RGBLIGHT_ENABLE = no
+=======
+# Build options
+COMBO_ENABLE = yes
+KEY_OVERRIDE_ENABLE = no
+LTO_ENABLE = yes
+QMK_SETTINGS = no
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+>>>>>>> 6bea951a128a920983a085313237ff87b1acc86c
